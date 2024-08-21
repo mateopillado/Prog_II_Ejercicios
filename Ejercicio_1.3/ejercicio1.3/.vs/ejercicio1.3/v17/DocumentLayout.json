@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_1.3\\ejercicio1.3\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_1.3\\ejercicio1.3\\clases\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|solutionrelative:clases\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_1.3\\ejercicio1.3\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|solutionrelative:clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_1.3\\ejercicio1.3\\clases\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|solutionrelative:clases\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_1.3\\ejercicio1.3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1061BA6B-59AB-41E9-8C41-F4406B64C52A}|ejercicio1.3.csproj|solutionrelative:iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Suelto.cs",
+              "RelativeDocumentMoniker": "Clases\\Suelto.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Suelto.cs",
+              "RelativeToolTip": "Clases\\Suelto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:28:31.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Pack.cs",
+              "RelativeDocumentMoniker": "Clases\\Pack.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Pack.cs",
+              "RelativeToolTip": "Clases\\Pack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:22:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Producto.cs",
+              "RelativeDocumentMoniker": "Clases\\Producto.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Producto.cs",
+              "RelativeToolTip": "Clases\\Producto.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:16:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\IPrecio.cs",
+              "RelativeDocumentMoniker": "IPrecio.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\IPrecio.cs",
+              "RelativeToolTip": "IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:14:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Ejercicio_1.3\\ejercicio1.3\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:13:06.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.AssemblyInfoInputs.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.AssemblyInfo.cs
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\bin\Debug\net8.0\ejercicio1.3.exe
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\bin\Debug\net8.0\ejercicio1.3.deps.json
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\bin\Debug\net8.0\ejercicio1.3.runtimeconfig.json
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\bin\Debug\net8.0\ejercicio1.3.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\bin\Debug\net8.0\ejercicio1.3.pdb
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\refint\ejercicio1.3.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.pdb
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ejercicio1.3.genruntimeconfig.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\Ejercicio_1.3\ejercicio1.3\obj\Debug\net8.0\ref\ejercicio1.3.dll
