@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\repaso1w3\\repaso1w3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|solutionrelative:repaso1w3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\repaso1w3\\repaso1w3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|solutionrelative:repaso1w3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\repaso1w3\\repaso1w3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|solutionrelative:repaso1w3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\repaso1w3\\repaso1w3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|solutionrelative:repaso1w3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\repaso1w3\\repaso1w3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D169A8-1F92-4FED-AC74-B76DDFE01DAA}|Repaso1w3\\Repaso1w3.csproj|solutionrelative:repaso1w3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Suelto.cs",
+              "RelativeDocumentMoniker": "Repaso1w3\\Suelto.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Suelto.cs",
+              "RelativeToolTip": "Repaso1w3\\Suelto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:57:16.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Pack.cs",
+              "RelativeDocumentMoniker": "Repaso1w3\\Pack.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Pack.cs",
+              "RelativeToolTip": "Repaso1w3\\Pack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:51:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Producto.cs",
+              "RelativeDocumentMoniker": "Repaso1w3\\Producto.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Producto.cs",
+              "RelativeToolTip": "Repaso1w3\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:44:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Program.cs",
+              "RelativeDocumentMoniker": "Repaso1w3\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\Program.cs",
+              "RelativeToolTip": "Repaso1w3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:28:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\IPrecio.cs",
+              "RelativeDocumentMoniker": "Repaso1w3\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Repaso1w3\\Repaso1w3\\IPrecio.cs",
+              "RelativeToolTip": "Repaso1w3\\IPrecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:41:06.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

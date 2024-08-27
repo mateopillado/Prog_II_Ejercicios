@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\clase2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\clase2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|c:\\users\\mateo\\desktop\\facultad\\prog ii\\clase2\\clase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE15874-8E1E-4CCF-AD3E-C1F9554EC162}|clase2\\clase2.csproj|solutionrelative:clase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "clase2\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\DataHelper.cs",
+              "RelativeToolTip": "clase2\\Data\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:14:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\ProductRepositoryADO.cs",
+              "RelativeDocumentMoniker": "clase2\\Data\\ProductRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\ProductRepositoryADO.cs",
+              "RelativeToolTip": "clase2\\Data\\ProductRepositoryADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:50:46.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "clase2\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Domain\\Product.cs",
+              "RelativeToolTip": "clase2\\Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:42:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "clase2\\Data\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Data\\IProductRepository.cs",
+              "RelativeToolTip": "clase2\\Data\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:38:23.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clase2.csproj",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\clase2.csproj",
+              "RelativeDocumentMoniker": "clase2\\clase2.csproj",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\clase2.csproj",
+              "RelativeToolTip": "clase2\\clase2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T23:17:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "clase2\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Services\\ProductService.cs",
+              "RelativeToolTip": "clase2\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:10:10.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Program.cs",
+              "RelativeDocumentMoniker": "clase2\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\clase2\\clase2\\Program.cs",
+              "RelativeToolTip": "clase2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:36:39.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

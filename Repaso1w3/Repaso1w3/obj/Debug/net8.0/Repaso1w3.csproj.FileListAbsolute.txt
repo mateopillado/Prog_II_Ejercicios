@@ -1,0 +1,28 @@
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.exe
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.deps.json
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.runtimeconfig.json
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.dll
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.pdb
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.AssemblyInfoInputs.cache
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.AssemblyInfo.cs
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.csproj.CoreCompileInputs.cache
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.dll
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\refint\Repaso1w3.dll
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.pdb
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.genruntimeconfig.cache
+C:\Users\cotic\source\repos\Repaso1w3\Repaso1w3\obj\Debug\net8.0\ref\Repaso1w3.dll
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.exe
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.deps.json
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.runtimeconfig.json
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.dll
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\bin\Debug\net8.0\Repaso1w3.pdb
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.dll
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\refint\Repaso1w3.dll
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.pdb
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\Repaso1w3.genruntimeconfig.cache
+C:\Users\mateo\Desktop\Facultad\Prog II\Repaso1w3\Repaso1w3\obj\Debug\net8.0\ref\Repaso1w3.dll
