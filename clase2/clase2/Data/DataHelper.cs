@@ -11,7 +11,7 @@ namespace clase2.Data
     public class DataHelper
     {
 
-        private string cadenaConexion = @"Data Source=localhost;Initial Catalog=Almacen;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
+        private string cadenaConexion = @"Data Source=DESKTOP-3D437T7\SQLEXPRESS;Initial Catalog=Almacen;Integrated Security=True;Encrypt=False;Trust Server Certificate=True";
 
         private static DataHelper _instance;
         private SqlConnection _connection;
@@ -32,7 +32,7 @@ namespace clase2.Data
             return _instance;
         }
 
-        public DataTable ExecuteSPQuery(string sp)
+        public DataTable ExecuteSPQuery(string sp) 
         {
             DataTable dt = new DataTable();
 

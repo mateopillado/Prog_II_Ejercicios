@@ -20,16 +20,22 @@ namespace clase2.Services
 
         public List<Product> GetProducts() 
         {
-            List<Product> products = new List<Product>();
-
-
-
-
-
-            return products;
+            return _repository.GetAll();
         }
 
+        //public Product GetProductByCodigo(int cod)
+        //{
+        //    return _repositorio.GetById(cod);
+        //}
 
+        //public bool SaveProduct(Product oProduct)
+        //{
+        //    return _repositorio.Save(oProduct);
+        //}
+        //public bool DeleteProduct(int cod)
+        //{
+        //    return _repositorio.Delete(cod);
+        //}
 
 
 

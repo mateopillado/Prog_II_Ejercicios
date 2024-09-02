@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\contracts\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\contracts\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\repositories\\contracts\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:repositories\\contracts\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\domain\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:domain\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\problema_1.6\\domain\\tipo_cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9687EE-8710-4CBE-AE50-F0BBD356F0A0}|Problema_1.6.csproj|solutionrelative:domain\\tipo_cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\TipoCuentaRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:57:40.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ITipoCuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:57:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CuentaRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:56:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ICuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ICuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:55:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAjwC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:52:36.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Utils\\DataHelper.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAnwEcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:46:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Domain\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Cuenta.cs",
+              "RelativeToolTip": "Domain\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:41:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Cliente.cs",
+              "RelativeToolTip": "Domain\\Cliente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:41:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tipo_Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Tipo_Cuenta.cs",
+              "RelativeDocumentMoniker": "Domain\\Tipo_Cuenta.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Domain\\Tipo_Cuenta.cs",
+              "RelativeToolTip": "Domain\\Tipo_Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:40:44.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Repositories\\Contracts\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:38:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:58:45.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
