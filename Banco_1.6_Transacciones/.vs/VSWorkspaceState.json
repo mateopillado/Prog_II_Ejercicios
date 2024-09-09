@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Banco",
+    "\\Banco\\Entities",
+    "\\Banco\\Repositories",
+    "\\Banco\\Repositories\\Contracts",
+    "\\Banco\\Repositories\\Implementations",
+    "\\Banco\\Services",
+    "\\Banco\\Utils"
+  ],
+  "SelectedNode": "\\Banco\\Services\\BancoManager.cs",
+  "PreviewInSolutionExplorer": false
+}

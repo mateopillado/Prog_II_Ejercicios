@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Problema_1._5.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,12 @@ namespace Problema_1._5.Repositories.Contracs
 {
     internal interface IArticuloRepository
     {
+
+        List<Articulo> GetAll();
+
+        bool Save(Articulo articulo);
+
+        bool Delete(int idArticulo);
+
     }
 }

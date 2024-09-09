@@ -38,7 +38,7 @@ namespace Banco.Repositories.Implementations
         //    return clientes;
         //}
 
-       
+
 
         //public bool Add(Cliente cliente)
         //{
@@ -102,9 +102,7 @@ namespace Banco.Repositories.Implementations
             }
             finally  
             { 
-                if (cnn != null && cnn.State == ConnectionState.Open) { 
-                    cnn.Close(); 
-                }
+                 
             }
  
             return result;

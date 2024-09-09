@@ -9,8 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\Implementation\" />
-    <Folder Include="Utils\" />
+    <Compile Remove="Repositories\Implementation\**" />
+    <EmbeddedResource Remove="Repositories\Implementation\**" />
+    <None Remove="Repositories\Implementation\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>

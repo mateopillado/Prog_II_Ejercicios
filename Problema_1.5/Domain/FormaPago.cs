@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Problema_1._5.Domain
 {
-    internal class FormaPago
+    public class FormaPago
     {
+
+        public int Id { get; set; }
+
+        public string Nombre { get; set; }
+
+        public decimal Recargo { get; set; }
+
+
+        public override string ToString()
+        {
+            return $"[{Id}] {Nombre}";
+        }
+
     }
 }

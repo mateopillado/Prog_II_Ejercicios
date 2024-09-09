@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj": {}
+    "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj": {
+    "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj",
+        "projectUniqueName": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj",
         "projectName": "Problema_1.5",
-        "projectPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj",
-        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\obj\\",
+        "projectPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\Problema_1.5.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Problema_1.5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

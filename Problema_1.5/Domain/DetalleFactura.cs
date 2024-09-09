@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Problema_1._5.Domain
 {
-    internal class DetalleFactura
+    public class DetalleFactura
     {
 
-        public Articulo Articulo { get; set; }
+        public int Id { get; set; }
+        public Articulo Articulo_ { get; set; }
 
         public int  Cantidad { get; set; }
 
+        public decimal Precio { get; set; }
 
+        public int IdFactura { get; set; }
 
 
 
