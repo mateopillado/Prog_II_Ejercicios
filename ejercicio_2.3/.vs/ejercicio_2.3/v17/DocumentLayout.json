@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_2.3\\registrotemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|solutionrelative:registrotemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_2.3\\controllers\\temperaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|solutionrelative:controllers\\temperaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\ejercicio_2.3\\models\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318EF255-0AA2-4D4F-AA48-A48899677DF3}|ejercicio_2.3.csproj|solutionrelative:models\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroTemp.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\RegistroTemp.cs",
+              "RelativeDocumentMoniker": "RegistroTemp.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\RegistroTemp.cs",
+              "RelativeToolTip": "RegistroTemp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:15:22.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperaturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\Controllers\\TemperaturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TemperaturaController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\Controllers\\TemperaturaController.cs",
+              "RelativeToolTip": "Controllers\\TemperaturaController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:13:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\Models\\Temperatura.cs",
+              "RelativeDocumentMoniker": "Models\\Temperatura.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ejercicio_2.3\\Models\\Temperatura.cs",
+              "RelativeToolTip": "Models\\Temperatura.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:49.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
