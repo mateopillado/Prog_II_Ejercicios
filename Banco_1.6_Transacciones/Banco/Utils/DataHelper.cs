@@ -16,7 +16,7 @@ namespace Banco.Utils
 
         private DataHelper()
         {
-            _connection = new SqlConnection("Data Source=172.16.10.196;Initial Catalog=BancoDb;User Id=Alumno1w2;password=alumno1w2");
+            _connection = new SqlConnection("Data Source=DESKTOP-3D437T7\\SQLEXPRESS;Initial Catalog=Almacen;Integrated Security=True;");
         }
 
         public static DataHelper GetInstance()
