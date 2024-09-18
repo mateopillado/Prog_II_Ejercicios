@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioTurno", "RepositorioTurno.csproj", "{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTurno", "..\ApiTurno\ApiTurno.csproj", "{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4928F722-0DD0-41C4-BC9C-EFCA1C1DFB87}
+	EndGlobalSection
+EndGlobal

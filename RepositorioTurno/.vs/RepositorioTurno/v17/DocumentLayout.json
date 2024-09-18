@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA01378-225A-47FA-B43F-BF5FEE4E80AD}|..\\ApiTurno\\ApiTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\apiturno\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\entities\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:entities\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\repositorioturno\\entities\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEC52A6-F157-4C19-9CDB-A33DD84BC341}|RepositorioTurno.csproj|solutionrelative:entities\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ApiTurno\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "..\\ApiTurno\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ApiTurno\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "..\\ApiTurno\\Controllers\\TurnoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:52:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Services\\TurnoService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:39:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Utils\\DataHelper.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:36:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Repositories\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Repositories\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositories\\TurnoRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:32:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\Servicio.cs",
+              "RelativeDocumentMoniker": "Entities\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\Servicio.cs",
+              "RelativeToolTip": "Entities\\Servicio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:08:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\DetalleTurno.cs",
+              "RelativeDocumentMoniker": "Entities\\DetalleTurno.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\DetalleTurno.cs",
+              "RelativeToolTip": "Entities\\DetalleTurno.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:07:17.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\Turno.cs",
+              "RelativeDocumentMoniker": "Entities\\Turno.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\RepositorioTurno\\Entities\\Turno.cs",
+              "RelativeToolTip": "Entities\\Turno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:05:29.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
