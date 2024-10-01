@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\banco_1.6_transacciones\\banco\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:services\\bancomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\banco_1.6_transacciones\\banco\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -110,8 +110,7 @@
               "RelativeToolTip": "Utils\\DataHelper.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:42:15.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T18:42:15.213Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Repositories\\Implementations\\TipoCuentaRepository.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:43:10.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T18:43:10.015Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "Services\\BancoManager.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:17:50.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T01:17:50.731Z"
             },
             {
               "$type": "Document",

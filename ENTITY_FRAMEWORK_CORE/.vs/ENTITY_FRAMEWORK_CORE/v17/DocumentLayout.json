@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ENTITY_FRAMEWORK_CORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE028A1-638A-42CF-A138-156AE1E54B00}|ENTITY_FRAMEWORK_CORE.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\entity_framework_core\\aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE028A1-638A-42CF-A138-156AE1E54B00}|ENTITY_FRAMEWORK_CORE.csproj|solutionrelative:aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083D45B-CD66-485A-A82A-AD46513B0E92}|..\\Api_Framework\\Api_Framework.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\api_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083D45B-CD66-485A-A82A-AD46513B0E92}|..\\Api_Framework\\Api_Framework.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\api_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE028A1-638A-42CF-A138-156AE1E54B00}|ENTITY_FRAMEWORK_CORE.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\entity_framework_core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE028A1-638A-42CF-A138-156AE1E54B00}|ENTITY_FRAMEWORK_CORE.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Api_Framework\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Api_Framework\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Api_Framework\\appsettings.json",
+              "RelativeToolTip": "..\\Api_Framework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T21:12:40.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Api_Framework\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Api_Framework\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Api_Framework\\Program.cs",
+              "RelativeToolTip": "..\\Api_Framework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:03:36.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ENTITY_FRAMEWORK_CORE\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ENTITY_FRAMEWORK_CORE\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:52:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ENTITY_FRAMEWORK_CORE\\AplicationDbContex.cs",
+              "RelativeDocumentMoniker": "AplicationDbContex.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\ENTITY_FRAMEWORK_CORE\\AplicationDbContex.cs",
+              "RelativeToolTip": "AplicationDbContex.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:49:06.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
