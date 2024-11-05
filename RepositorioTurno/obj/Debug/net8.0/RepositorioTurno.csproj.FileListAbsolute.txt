@@ -1,0 +1,13 @@
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.deps.json
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\bin\Debug\net8.0\RepositorioTurno.pdb
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.AssemblyInfoInputs.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.AssemblyInfo.cs
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.sourcelink.json
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\refint\RepositorioTurno.dll
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\RepositorioTurno.pdb
+C:\Users\Mateo\Desktop\Prog II\Prog_II_Ejercicios\RepositorioTurno\obj\Debug\net8.0\ref\RepositorioTurno.dll

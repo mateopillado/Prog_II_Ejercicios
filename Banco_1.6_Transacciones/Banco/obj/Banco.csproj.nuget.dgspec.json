@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj": {}
+    "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj": {
+    "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj",
-        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateo\\Desktop\\Facultad\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\obj\\",
+        "projectPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Banco.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
