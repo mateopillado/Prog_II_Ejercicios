@@ -1,0 +1,14 @@
+C:\Users\mateo\source\repos\CineBack\CineBack\bin\Debug\net8.0\CineBack.deps.json
+C:\Users\mateo\source\repos\CineBack\CineBack\bin\Debug\net8.0\CineBack.runtimeconfig.json
+C:\Users\mateo\source\repos\CineBack\CineBack\bin\Debug\net8.0\CineBack.dll
+C:\Users\mateo\source\repos\CineBack\CineBack\bin\Debug\net8.0\CineBack.pdb
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.AssemblyInfo.cs
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.dll
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\refint\CineBack.dll
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.pdb
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\CineBack.genruntimeconfig.cache
+C:\Users\mateo\source\repos\CineBack\CineBack\obj\Debug\net8.0\ref\CineBack.dll

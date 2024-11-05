@@ -19,7 +19,10 @@ namespace Problema_1._5.Domain
         public int IdFactura { get; set; }
 
 
-
+        public override string ToString()
+        {
+            return $"Factura Nro = {IdFactura}, Cantidad del producto = {Cantidad},Precio Vendido = {Precio},Articulo Vendido = {Articulo_.Nombre}";
+        }
 
 
 

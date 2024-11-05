@@ -62,5 +62,10 @@ namespace Problema_1._5.Services
             return _formaPagoRepository.Add(forma);
         }
 
+        public List<DetalleFactura> GetFacturaById(int id)
+        {
+            return _facturaRepository.GetById(id);
+        }
+
     }
 }
