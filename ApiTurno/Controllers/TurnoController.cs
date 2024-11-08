@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 ﻿using ApiTurno.Models;
 using ApiTurno.Repository;
 using ApiTurno.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+=======
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using RepositorioTurno.Entities;
+using RepositorioTurno.Services;
+>>>>>>> 506acc96fd2103906ea70dc95b04c7db12b4712b
 
 namespace ApiTurno.Controllers
 {
@@ -13,6 +20,7 @@ namespace ApiTurno.Controllers
 
         private readonly ITurnoService _turnoService;
 
+<<<<<<< HEAD
         public TurnoController(ITurnoService turnoService)
         {
             _turnoService = turnoService;
@@ -41,6 +49,39 @@ namespace ApiTurno.Controllers
         }
 
 
+=======
+        public TurnoController()
+        {
+            _turnoService = new TurnoService();
+        }
+
+
+        [HttpGet] 
+
+        public IActionResult GetServicios() 
+        {
+            try
+            {
+                return Ok(_turnoService.GetAllSevices());
+            }
+            catch (Exception)
+            {
+                throw new Exception();
+                //return NoContent();
+            }
+        }
+
+
+        [HttpPost] 
+
+        public IActionResult PostTurno([FromBody] Turno turno) 
+        {
+            return Ok(_turnoService.InsertarMestroDetalle(turno));
+        
+        
+        }
+
+>>>>>>> 506acc96fd2103906ea70dc95b04c7db12b4712b
 
 
     }

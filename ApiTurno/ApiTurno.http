@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @ApiTurno_HostAddress = http://localhost:5188
+=======
+@ApiTurno_HostAddress = http://localhost:5043
+>>>>>>> 506acc96fd2103906ea70dc95b04c7db12b4712b
 
 GET {{ApiTurno_HostAddress}}/weatherforecast/
 Accept: application/json

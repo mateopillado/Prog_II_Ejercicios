@@ -3,24 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\banco_1.6_transacciones\\banco\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|c:\\users\\mateo\\desktop\\prog ii\\prog_ii_ejercicios\\banco_1.6_transacciones\\banco\\repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 506acc96fd2103906ea70dc95b04c7db12b4712b
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\services\\bancomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:services\\bancomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 506acc96fd2103906ea70dc95b04c7db12b4712b
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58AD417C-9125-4EA5-B067-FA3ED777788D}|Banco.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +76,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Utils\\DataHelper.cs",
               "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
@@ -114,15 +124,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Repositories\\Implementations\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\ClienteRepository.cs",
               "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Repositories\\Implementations\\ClienteRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\ClienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwF0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:58:01.524Z"
+              "WhenOpened": "2024-08-27T18:58:01.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,20 +149,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CuentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Repositories\\Implementations\\CuentaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\CuentaRepository.cs",
               "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Repositories\\Implementations\\CuentaRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\CuentaRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T21:40:33.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T21:40:33.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TipoCuentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Repositories\\Implementations\\TipoCuentaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\TipoCuentaRepository.cs",
@@ -169,7 +179,7 @@
               "RelativeDocumentMoniker": "Services\\BancoManager.cs",
               "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\Prog_II_Ejercicios\\Banco_1.6_Transacciones\\Banco\\Services\\BancoManager.cs",
               "RelativeToolTip": "Services\\BancoManager.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T01:17:50.731Z"
             },
