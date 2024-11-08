@@ -38,13 +38,13 @@ foreach (var forma in formas)
 
 //manejador.AddFormaPago(addForma);
 
-var productos = manejador.GetAllProductos();
-Console.WriteLine("Lista de Productos");
+//var productos = manejador.GetAllProductos();
+//Console.WriteLine("Lista de Productos");
 
-foreach (var item in productos)
-{
-    Console.WriteLine(item);
-}
+//foreach (var item in productos)
+//{
+//    Console.WriteLine(item);
+//}
 
 //manejador.DeleteArticulo(4);
 
@@ -72,3 +72,9 @@ foreach (var item in productos)
 
 //Console.WriteLine(manejador.InsertFactura(fac));
 
+var list = manejador.GetFacturaById(1);
+
+foreach (DetalleFactura item in list)
+{
+    Console.WriteLine(item);
+}

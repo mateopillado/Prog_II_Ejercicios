@@ -14,6 +14,8 @@ namespace Problema_1._5.Repositories.Contracs
         bool Add(Factura fact);
 
         bool Delete(int nroFactura);
+
+        List<DetalleFactura> GetById(int nroFactura);
         
     }
 }

@@ -100,5 +100,37 @@ namespace Problema_1._5.Repositories.Implementations
 
             return facturaList;
         }
+
+        public List<DetalleFactura> GetById(int nroFactura)
+        {
+            var lst = new List<DetalleFactura>();
+
+            var param = new List<Parameter>
+            {
+                new Parameter("@nro_factura", nroFactura)
+            };
+
+            var dt = DataHelper.GetInstance().ExecuteSPQuery("sp_consult_facturasById", param);
+
+            foreach (DataRow item in dt.Rows)
+            {
+                var detalle = new DetalleFactura
+                {
+                    IdFactura = (int)item["nro_factura"],
+                    Cantidad = (int)item["cantidad"],
+                    Precio = (decimal)item["pre_venta"],
+                    Articulo_ = new Articulo
+                    {
+                        Nombre = item["nombre"].ToString(),
+                        Id = (int)item["cod_art"]
+                    }
+                };
+               
+                lst.Add(detalle);
+
+            }
+
+            return lst;
+        }
     }
 }

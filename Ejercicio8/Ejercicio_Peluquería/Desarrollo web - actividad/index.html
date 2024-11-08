@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../main.css">
+    <title>Actividad HTML</title>
+</head>
+<body class="container-fluid">
+    <header class="row">
+        <h1 class="col">Peluqueria</h1>
+    </header>
+    <div class="row " style="text-align: center;">
+        <div class="col-3 sideBar">
+            <div class="col-12 user">
+                <strong class="imgUser" style="background-color: black; border-radius: 100%; padding: 1rem; color: white;">M</strong>
+
+                <h3>usuario</h3>
+            </div>
+            <nav class="col-12">
+                <ul>
+                    <div class="btnMenu">
+                        <li>
+                            <a href="#">Inicio</a>
+                        </li>
+                    </div>
+                    <div class="btnMenu">
+                        <li>
+                            <a href="#">Servicios</a>
+                        </li>
+                    </div>
+                    <div class="btnMenu">
+                        <li>
+                            <a href="#">Mis turnos</a>
+                        </li>
+                    </div>
+                    <div class="btnMenu">
+                        <li>
+                            <a href="#">Contacto</a>
+                        </li>
+                    </div>
+
+                </ul>
+            </nav>
+        </div>
+        <div class="col-9">
+            <main class="row">
+                <div class="col-6 d-flex justify-content-center align-content-center flex-wrap">
+                    <div class="col-12 cajaH3">
+                        <h3 class="h32">Agendá tu turno</h3>
+                    </div>
+                    <div class="col-12">
+                        <form class="d-inline-flex" method="post">
+                            <div class="alert alert-danger alert-dismissible fade show" hidden role="alert" id="error">
+                                <strong>Error</strong> al reservar el turno. Intente nuevamente.
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" onclick="cerrar();"></button>
+                            </div>
+                            <div class="alert alert-success alert-dismissible fade show" hidden role="alert" id="ok">
+                                Su turno fue reservado con éxito. 
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" onclick="cerrar();"></button>
+                            </div>
+                            <div>
+                                <label class="label2" for="datetime">Seleccioná fecha y hora:</label>
+                                <input class="datePick" type="datetime-local" id="datetime" name="datetime" required>
+                            </div>
+                            <div class="cajaServicios mt-4">
+                                <label class="label2" for="servicios">Seleccioná un servicio:</label>
+                                <select id="servicios"  required>
+                                </select>
+                            </div>
+                            <div>
+                                <button class="btnEnviar mt-5" onclick="reservar_turno();" type="button">Reservar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+    <footer class="row foot">
+        <h5>@2024</h5>
+    </footer>
+    <script src="../main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    
+</body>
+</html>
